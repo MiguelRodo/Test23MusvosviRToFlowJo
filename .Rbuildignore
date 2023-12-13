@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 # ignore CDE and VS Code workspace files
 
 ^\.devcontainer$
